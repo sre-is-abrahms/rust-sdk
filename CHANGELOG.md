@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/open-feature/rust-sdk/compare/open-feature-v0.2.2...open-feature-v0.2.3) (2024-03-31)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update rust crate tokio to 1.37 ([#69](https://github.com/open-feature/rust-sdk/issues/69)) ([b6b418b](https://github.com/open-feature/rust-sdk/commit/b6b418b70ff655dcc31b30a5d7966e09f46038b2))
+
 ## [0.2.2](https://github.com/open-feature/rust-sdk/compare/open-feature-v0.2.1...open-feature-v0.2.2) (2024-03-01)
 
 
